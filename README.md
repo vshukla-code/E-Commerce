@@ -1,2 +1,10 @@
-# E-Commerce
-Creating an e-commerce website involves designing a platform that allows users to browse products, add them to a cart, and make purchases. Using HTML and CSS, you can create a visually appealing and functional website
+## Sections
+
+- Part1: Responsive Home Page Design.
+- Part2: Shop Page & Single Product Page.
+- Part3: Blog Page.
+- Part4: About Page.
+- Part5: Contact Us.
+- Part6: Ecommerce Shopping Cart.
+
+Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
